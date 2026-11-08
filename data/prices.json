@@ -1,0 +1,382 @@
+[
+ {
+  "id": "bananas",
+  "aisle": "Fruit & veg",
+  "item": "Bananas",
+  "buy": "~1.5 kg (8)",
+  "aldi": 6.74,
+  "woolworths": 6.48,
+  "coles": 6.16,
+  "note": "Snacks. Woolworths/Coles priced each"
+ },
+ {
+  "id": "apples",
+  "aisle": "Fruit & veg",
+  "item": "Royal Gala apples",
+  "buy": "1 kg",
+  "aldi": 6.99,
+  "woolworths": 7.9,
+  "coles": 7.88,
+  "note": "Coles loose, ~1 kg"
+ },
+ {
+  "id": "carrots",
+  "aisle": "Fruit & veg",
+  "item": "Carrots",
+  "buy": "1 kg bag",
+  "aldi": 2.09,
+  "woolworths": 2.5,
+  "coles": 2.6,
+  "note": "Coles: 1.5 kg bag"
+ },
+ {
+  "id": "onions",
+  "aisle": "Fruit & veg",
+  "item": "Brown onions",
+  "buy": "1 kg bag",
+  "aldi": 2.99,
+  "woolworths": 4.0,
+  "coles": 4.0,
+  "note": ""
+ },
+ {
+  "id": "potatoes",
+  "aisle": "Fruit & veg",
+  "item": "Potatoes",
+  "buy": "1.5–2 kg bag",
+  "aldi": 3.99,
+  "woolworths": 6.5,
+  "coles": 4.0,
+  "note": "ALDI 1.5 kg; Woolworths and Coles 2 kg"
+ },
+ {
+  "id": "capsicums",
+  "aisle": "Fruit & veg",
+  "item": "Capsicums",
+  "buy": "750 g – 1 kg (~4)",
+  "aldi": 4.49,
+  "woolworths": 4.7,
+  "coles": 4.9,
+  "note": ""
+ },
+ {
+  "id": "spinach",
+  "aisle": "Fruit & veg",
+  "item": "Baby spinach",
+  "buy": "120 g bag",
+  "aldi": 1.99,
+  "woolworths": 3.3,
+  "coles": 4.4,
+  "note": "Coles: 2 × 60 g"
+ },
+ {
+  "id": "cucumbers",
+  "aisle": "Fruit & veg",
+  "item": "Lebanese cucumbers",
+  "buy": "~600 g (4)",
+  "aldi": 3.99,
+  "woolworths": 3.52,
+  "coles": 5.04,
+  "note": "Woolworths/Coles priced each"
+ },
+ {
+  "id": "avocados",
+  "aisle": "Fruit & veg",
+  "item": "Avocados",
+  "buy": "1 kg bag (~5)",
+  "aldi": 8.49,
+  "woolworths": 8.9,
+  "coles": 8.9,
+  "note": ""
+ },
+ {
+  "id": "mince",
+  "aisle": "Meat & fish",
+  "item": "Beef mince",
+  "buy": "500 g",
+  "aldi": 6.49,
+  "woolworths": 7.5,
+  "coles": 6.0,
+  "note": "Woolworths sells 1 kg ($15); Coles 2 kg pack ($24), price 79 days old"
+ },
+ {
+  "id": "chicken",
+  "aisle": "Meat & fish",
+  "item": "Chicken thigh fillets",
+  "buy": "~550 g",
+  "aldi": 8.52,
+  "woolworths": 9.7,
+  "coles": 7.98,
+  "note": "ALDI bulk $15.49/kg; Coles 1.1 kg pack $15.95"
+ },
+ {
+  "id": "drumsticks",
+  "aisle": "Meat & fish",
+  "item": "Chicken drumsticks",
+  "buy": "2 kg bulk pack",
+  "aldi": 6.99,
+  "woolworths": 7.7,
+  "coles": 7.7,
+  "note": ""
+ },
+ {
+  "id": "sausages",
+  "aisle": "Meat & fish",
+  "item": "Thin sausages",
+  "buy": "500 g",
+  "aldi": 3.79,
+  "woolworths": 4.2,
+  "coles": 9.5,
+  "note": "Coles price 82 days old"
+ },
+ {
+  "id": "salmon",
+  "aisle": "Meat & fish",
+  "item": "Salmon fillets",
+  "buy": "4 fillets (~460–500 g)",
+  "aldi": 14.99,
+  "woolworths": 17.0,
+  "coles": 24.0,
+  "note": "Woolworths: 2 × 250 g frozen; Coles: 2 × 250 g"
+ },
+ {
+  "id": "milk",
+  "aisle": "Dairy & eggs",
+  "item": "Full cream milk",
+  "buy": "3 L",
+  "aldi": 4.95,
+  "woolworths": 4.95,
+  "coles": 4.95,
+  "note": ""
+ },
+ {
+  "id": "eggs",
+  "aisle": "Dairy & eggs",
+  "item": "Eggs",
+  "buy": "12 pack",
+  "aldi": 5.29,
+  "woolworths": 5.7,
+  "coles": 6.1,
+  "note": ""
+ },
+ {
+  "id": "cheese",
+  "aisle": "Dairy & eggs",
+  "item": "Tasty cheese block",
+  "buy": "500 g",
+  "aldi": 5.99,
+  "woolworths": 6.6,
+  "coles": 10.5,
+  "note": "Coles match was Bega"
+ },
+ {
+  "id": "yoghurt",
+  "aisle": "Dairy & eggs",
+  "item": "Greek-style natural yoghurt",
+  "buy": "1 kg tub",
+  "aldi": 3.89,
+  "woolworths": 7.5,
+  "coles": 4.5,
+  "note": "Woolworths: Farmers Union"
+ },
+ {
+  "id": "butter",
+  "aisle": "Dairy & eggs",
+  "item": "Butter",
+  "buy": "250 g",
+  "aldi": 3.99,
+  "woolworths": 4.2,
+  "coles": 8.0,
+  "note": "Coles: 400 g"
+ },
+ {
+  "id": "bread",
+  "aisle": "Bakery",
+  "item": "Wholemeal bread",
+  "buy": "650–700 g loaf",
+  "aldi": 2.59,
+  "woolworths": 2.8,
+  "coles": 3.5,
+  "note": ""
+ },
+ {
+  "id": "wraps",
+  "aisle": "Bakery",
+  "item": "Tortilla wraps",
+  "buy": "8 pack",
+  "aldi": 3.49,
+  "woolworths": 5.85,
+  "coles": 3.5,
+  "note": "Woolworths: 16 pack on special"
+ },
+ {
+  "id": "mixedveg",
+  "aisle": "Frozen",
+  "item": "Frozen mixed vegetables",
+  "buy": "1 kg",
+  "aldi": 2.79,
+  "woolworths": 3.6,
+  "coles": 5.5,
+  "note": ""
+ },
+ {
+  "id": "peascorn",
+  "aisle": "Frozen",
+  "item": "Frozen peas & corn",
+  "buy": "1 kg",
+  "aldi": 3.99,
+  "woolworths": 2.5,
+  "coles": 4.2,
+  "note": "Woolworths: peas only"
+ },
+ {
+  "id": "spaghetti",
+  "aisle": "Pantry",
+  "item": "Spaghetti",
+  "buy": "500 g",
+  "aldi": 0.89,
+  "woolworths": 0.9,
+  "coles": 1.0,
+  "note": ""
+ },
+ {
+  "id": "penne",
+  "aisle": "Pantry",
+  "item": "Penne",
+  "buy": "500 g",
+  "aldi": 0.89,
+  "woolworths": 0.9,
+  "coles": 1.0,
+  "note": ""
+ },
+ {
+  "id": "rice",
+  "aisle": "Pantry",
+  "item": "Long grain rice",
+  "buy": "2 kg",
+  "aldi": 3.59,
+  "woolworths": 3.6,
+  "coles": 3.6,
+  "note": ""
+ },
+ {
+  "id": "oats",
+  "aisle": "Pantry",
+  "item": "Rolled oats",
+  "buy": "750 g",
+  "aldi": 1.49,
+  "woolworths": 1.7,
+  "coles": 1.7,
+  "note": ""
+ },
+ {
+  "id": "tomatoes",
+  "aisle": "Pantry",
+  "item": "Diced tomatoes",
+  "buy": "400 g tin",
+  "aldi": 0.95,
+  "woolworths": 0.95,
+  "coles": 1.1,
+  "note": ""
+ },
+ {
+  "id": "paste",
+  "aisle": "Pantry",
+  "item": "Tomato paste",
+  "buy": "1 jar/tub",
+  "aldi": 1.39,
+  "woolworths": 3.1,
+  "coles": 1.4,
+  "note": ""
+ },
+ {
+  "id": "coconut",
+  "aisle": "Pantry",
+  "item": "Coconut milk",
+  "buy": "400 ml tin",
+  "aldi": 1.69,
+  "woolworths": 1.7,
+  "coles": 1.7,
+  "note": ""
+ },
+ {
+  "id": "curry",
+  "aisle": "Pantry",
+  "item": "Mild curry paste",
+  "buy": "1 jar",
+  "aldi": 1.99,
+  "woolworths": 2.3,
+  "coles": 4.3,
+  "note": ""
+ },
+ {
+  "id": "stirfry",
+  "aisle": "Pantry",
+  "item": "Stir-fry sauce",
+  "buy": "1 bottle",
+  "aldi": 1.99,
+  "woolworths": null,
+  "coles": 3.3,
+  "note": "Not found at Woolworths"
+ },
+ {
+  "id": "garlic",
+  "aisle": "Pantry",
+  "item": "Minced garlic",
+  "buy": "250 g jar",
+  "aldi": 1.15,
+  "woolworths": 1.25,
+  "coles": 1.25,
+  "note": ""
+ },
+ {
+  "id": "chickenbreast",
+  "aisle": "Meat & fish",
+  "item": "Chicken breast fillets",
+  "buy": "~1 kg",
+  "aldi": 8.99,
+  "woolworths": 13.5,
+  "coles": 11.0,
+  "note": "ALDI value pack $8.99/kg (about 2.2 kg); Coles 1.4 kg pack $15.40"
+ },
+ {
+  "id": "dumplings",
+  "aisle": "Frozen",
+  "item": "Chicken dumplings",
+  "buy": "750 g bag",
+  "aldi": 8.99,
+  "woolworths": 7.5,
+  "coles": 9.9,
+  "note": "Woolworths: 600 g Sun Circle"
+ },
+ {
+  "id": "broccolini",
+  "aisle": "Fruit & veg",
+  "item": "Broccolini",
+  "buy": "1 bunch",
+  "aldi": 1.87,
+  "woolworths": 2.5,
+  "coles": 6.0,
+  "note": "ALDI doesn't sell broccolini, so grab a head of broccoli there (about $1.87)"
+ },
+ {
+  "id": "bakesauce",
+  "aisle": "Pantry",
+  "item": "Tomato pasta bake sauce",
+  "buy": "500 g jar",
+  "aldi": 2.99,
+  "woolworths": 3.3,
+  "coles": 3.6,
+  "note": "Creamy tomato & mozzarella style; Coles price is a special"
+ },
+ {
+  "id": "kidneybeans",
+  "aisle": "Pantry",
+  "item": "Red kidney beans",
+  "buy": "420 g tin",
+  "aldi": 0.89,
+  "woolworths": 0.95,
+  "coles": 0.95,
+  "note": ""
+ }
+]

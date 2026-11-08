@@ -1,0 +1,380 @@
+[
+ {
+  "slot_id": "d01-Breakfast",
+  "day": "d01",
+  "label": "Sat 7",
+  "date": "2026-11-07",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d01-Lunch",
+  "day": "d01",
+  "label": "Sat 7",
+  "date": "2026-11-07",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "toastie"
+ },
+ {
+  "slot_id": "d01-Dinner",
+  "day": "d01",
+  "label": "Sat 7",
+  "date": "2026-11-07",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "bolognese"
+ },
+ {
+  "slot_id": "d02-Breakfast",
+  "day": "d02",
+  "label": "Sun 8",
+  "date": "2026-11-08",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "eggs"
+ },
+ {
+  "slot_id": "d02-Lunch",
+  "day": "d02",
+  "label": "Sun 8",
+  "date": "2026-11-08",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "leftovers"
+ },
+ {
+  "slot_id": "d02-Dinner",
+  "day": "d02",
+  "label": "Sun 8",
+  "date": "2026-11-08",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "stirfry"
+ },
+ {
+  "slot_id": "d03-Breakfast",
+  "day": "d03",
+  "label": "Mon 9",
+  "date": "2026-11-09",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d03-Lunch",
+  "day": "d03",
+  "label": "Mon 9",
+  "date": "2026-11-09",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "friedrice"
+ },
+ {
+  "slot_id": "d03-Dinner",
+  "day": "d03",
+  "label": "Mon 9",
+  "date": "2026-11-09",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "chilli"
+ },
+ {
+  "slot_id": "d04-Breakfast",
+  "day": "d04",
+  "label": "Tue 10",
+  "date": "2026-11-10",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "pikelets"
+ },
+ {
+  "slot_id": "d04-Lunch",
+  "day": "d04",
+  "label": "Tue 10",
+  "date": "2026-11-10",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "leftovers"
+ },
+ {
+  "slot_id": "d04-Dinner",
+  "day": "d04",
+  "label": "Tue 10",
+  "date": "2026-11-10",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "butterchicken"
+ },
+ {
+  "slot_id": "d05-Breakfast",
+  "day": "d05",
+  "label": "Wed 11",
+  "date": "2026-11-11",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d05-Lunch",
+  "day": "d05",
+  "label": "Wed 11",
+  "date": "2026-11-11",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "leftovers"
+ },
+ {
+  "slot_id": "d05-Dinner",
+  "day": "d05",
+  "label": "Wed 11",
+  "date": "2026-11-11",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "dumplings"
+ },
+ {
+  "slot_id": "d06-Breakfast",
+  "day": "d06",
+  "label": "Thu 12",
+  "date": "2026-11-12",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "eggs"
+ },
+ {
+  "slot_id": "d06-Lunch",
+  "day": "d06",
+  "label": "Thu 12",
+  "date": "2026-11-12",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "pastasalad"
+ },
+ {
+  "slot_id": "d06-Dinner",
+  "day": "d06",
+  "label": "Thu 12",
+  "date": "2026-11-12",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "fajitas"
+ },
+ {
+  "slot_id": "d07-Breakfast",
+  "day": "d07",
+  "label": "Fri 13",
+  "date": "2026-11-13",
+  "week": 1,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d07-Lunch",
+  "day": "d07",
+  "label": "Fri 13",
+  "date": "2026-11-13",
+  "week": 1,
+  "slot": "Lunch",
+  "recipe": "chickenwrap"
+ },
+ {
+  "slot_id": "d07-Dinner",
+  "day": "d07",
+  "label": "Fri 13",
+  "date": "2026-11-13",
+  "week": 1,
+  "slot": "Dinner",
+  "recipe": "drumsticks"
+ },
+ {
+  "slot_id": "d08-Breakfast",
+  "day": "d08",
+  "label": "Sat 14",
+  "date": "2026-11-14",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d08-Lunch",
+  "day": "d08",
+  "label": "Sat 14",
+  "date": "2026-11-14",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "toastie"
+ },
+ {
+  "slot_id": "d08-Dinner",
+  "day": "d08",
+  "label": "Sat 14",
+  "date": "2026-11-14",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "redbake"
+ },
+ {
+  "slot_id": "d09-Breakfast",
+  "day": "d09",
+  "label": "Sun 15",
+  "date": "2026-11-15",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "eggs"
+ },
+ {
+  "slot_id": "d09-Lunch",
+  "day": "d09",
+  "label": "Sun 15",
+  "date": "2026-11-15",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "quesadilla"
+ },
+ {
+  "slot_id": "d09-Dinner",
+  "day": "d09",
+  "label": "Sun 15",
+  "date": "2026-11-15",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "chickenpasta"
+ },
+ {
+  "slot_id": "d10-Breakfast",
+  "day": "d10",
+  "label": "Mon 16",
+  "date": "2026-11-16",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d10-Lunch",
+  "day": "d10",
+  "label": "Mon 16",
+  "date": "2026-11-16",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "leftovers"
+ },
+ {
+  "slot_id": "d10-Dinner",
+  "day": "d10",
+  "label": "Mon 16",
+  "date": "2026-11-16",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "chilli"
+ },
+ {
+  "slot_id": "d11-Breakfast",
+  "day": "d11",
+  "label": "Tue 17",
+  "date": "2026-11-17",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "pikelets"
+ },
+ {
+  "slot_id": "d11-Lunch",
+  "day": "d11",
+  "label": "Tue 17",
+  "date": "2026-11-17",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "burritobowl"
+ },
+ {
+  "slot_id": "d11-Dinner",
+  "day": "d11",
+  "label": "Tue 17",
+  "date": "2026-11-17",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "chickenstrips"
+ },
+ {
+  "slot_id": "d12-Breakfast",
+  "day": "d12",
+  "label": "Wed 18",
+  "date": "2026-11-18",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d12-Lunch",
+  "day": "d12",
+  "label": "Wed 18",
+  "date": "2026-11-18",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "muffins"
+ },
+ {
+  "slot_id": "d12-Dinner",
+  "day": "d12",
+  "label": "Wed 18",
+  "date": "2026-11-18",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "dumplings"
+ },
+ {
+  "slot_id": "d13-Breakfast",
+  "day": "d13",
+  "label": "Thu 19",
+  "date": "2026-11-19",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "eggs"
+ },
+ {
+  "slot_id": "d13-Lunch",
+  "day": "d13",
+  "label": "Thu 19",
+  "date": "2026-11-19",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "eggsandwich"
+ },
+ {
+  "slot_id": "d13-Dinner",
+  "day": "d13",
+  "label": "Thu 19",
+  "date": "2026-11-19",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "frittata"
+ },
+ {
+  "slot_id": "d14-Breakfast",
+  "day": "d14",
+  "label": "Fri 20",
+  "date": "2026-11-20",
+  "week": 2,
+  "slot": "Breakfast",
+  "recipe": "porridge"
+ },
+ {
+  "slot_id": "d14-Lunch",
+  "day": "d14",
+  "label": "Fri 20",
+  "date": "2026-11-20",
+  "week": 2,
+  "slot": "Lunch",
+  "recipe": "leftovers"
+ },
+ {
+  "slot_id": "d14-Dinner",
+  "day": "d14",
+  "label": "Fri 20",
+  "date": "2026-11-20",
+  "week": 2,
+  "slot": "Dinner",
+  "recipe": "drumsticks"
+ }
+]
